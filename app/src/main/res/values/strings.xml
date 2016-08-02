@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Map</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DrawerOpen">Open</string>
+    <string name="DrawerClose">Close</string>
+    <string name="title_activity_maps">MapActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7903550813305755/4458180422</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="map_normal">Typical road map. Roads, some man-made features, and important natural features such as rivers are shown. Road and feature labels are also visible.</string>
+    <string name="map_hybrid">Satellite photograph data with road maps added. Road and feature labels are also visible.</string>
+    <string name="map_satellite">Satellite photograph data. Road and feature labels are not visible</string>
+    <string name="map_terrain">Topographic data. The map includes colors, contour lines and labels, and perspective shading. Some roads and labels are also visible.</string>
+    <string name="radius_description">From your current position set the radius of how far you want to get the list of restaurants, banks, universities etc.</string>
+    <string name="dev_description">Hi, i\'m studying CSE in United International University, living in Dhaka, Bangladesh.</string>
+    <string name="dev_url">https://www.facebook.com/Ar.Troublesome</string>
+</resources>
